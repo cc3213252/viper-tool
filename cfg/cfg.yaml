@@ -1,0 +1,6 @@
+server:
+  port: 8000
+
+mysql:
+  url: localhost
+  port: 3306
